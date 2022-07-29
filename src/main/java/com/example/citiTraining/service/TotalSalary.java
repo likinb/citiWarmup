@@ -1,4 +1,4 @@
-package com.example.citiTraining;
+package com.example.citiTraining.service;
 
 @FunctionalInterface
 public interface TotalSalary {

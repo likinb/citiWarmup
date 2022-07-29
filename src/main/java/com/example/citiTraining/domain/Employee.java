@@ -1,11 +1,12 @@
-package com.example.citiTraining;
+package com.example.citiTraining.domain;
 
+import com.example.citiTraining.domain.Address;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
 public class Employee {
 
-    public int employeeId;
+    public String employeeId;
     public String employeeName;
     public int salary;
     public Address address;
